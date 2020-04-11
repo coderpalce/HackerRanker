@@ -1,7 +1,5 @@
 #include <bits/stdc++.h>
-
 using namespace std;
-
 // Complete the makingAnagrams function below.
 int makingAnagrams(string s1, string s2) {
 
